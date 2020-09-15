@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class TestController extends Controller
 {
     public function index() {
-        $data = ["type" => "lalalal neke jos"];
+        $data = ["type" => "Nove promene neke jos"];
     }
 
 }
